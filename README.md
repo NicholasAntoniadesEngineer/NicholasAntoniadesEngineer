@@ -24,7 +24,7 @@ I am a hands-on engineer with extensive experience in software development and h
 ### 💼 Experience
 - **Senior Embedded Software Engineer, Hanwha Phasor** (June 2023 - Present)
 - **Senior Embedded Software Engineer, Chevalier Tech Limited** (Sept 2022 - June 2023)
-- **Lead Research and Prototyping Engineer, Kymira** (Aug 2021 - Sept 2022)
+- **Lead Research and Prototyping Engineer, Kymira** (Sept 2021 - Sept 2022)
 - **Mechatronics Engineer, Nanodyn Systems** (Jan 2020 - Sept 2021)
 - **Software Developer, Etech Solutions** (May 2019 - Jan 2019)
 - **Junior Web Developer, Datasmart Technologies** (Sept 2018 - May 2019)
