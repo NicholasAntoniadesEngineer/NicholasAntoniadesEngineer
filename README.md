@@ -10,7 +10,7 @@ I am a hands-on engineer with extensive experience in software development and h
 - **LinkedIn:** [linkedin.com/in/nicholas-antoniades](https://www.linkedin.com/in/nicholas-antoniades)
 
 ### 🛠️ Key Skills
-- **Languages:** C, C++, Python, C#, Java, SQL, HTML, CSS
+- **Languages:** C, C++, Python, C#
 - **Embedded Systems:** STM32, NXP S32, Onsemi RSL10, NRF, Quarvo, Renasas
 - **Protocols:** Ethernet, CAN, UART, I2C, RS485, SPI
 - **Tools:** Altium, Jenkins, ST-Link, Segger J-link, PCAN, PE micro cyclone
@@ -19,7 +19,8 @@ I am a hands-on engineer with extensive experience in software development and h
 ### 📘 Highlights
 - **Phased Array Antennas:** Led software system architecture and firmware integration for advanced phased array antennas at Hanwha Phasor.
 - **Automotive Security:** Developed central security systems for electric vehicles at Chevalier Tech Limited, integrating UWB, Bluetooth, and NFC technologies.
-- **Medical Prototypes:** At Kymira, led a team to design and demonstrate medical prototypes, securing two grants for the company.
+- **Medical Prototypes:** At Kymira, Designed, developed and demonstrated medical prototypes, securing two grants for the company.
+- **Medical Devices:** at Nanodyn Systems: Developed a portable ventilator and a CPAP system for use in rugged environments.
 
 ### 💼 Experience
 - **Senior Embedded Software Engineer, Hanwha Phasor** (June 2023 - Present)
