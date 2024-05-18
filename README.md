@@ -1,9 +1,7 @@
 
 # Nicholas Antoniades
 
-Welcome to my GitHub!
-
-I'm Nicholas Antoniades, a hands-on engineer with extensive experience in software development and hardware support. Over the past six years, I've worked across the Military, Medical, Automotive, and Aerospace sectors, bringing robust technical skills and a passion for innovation to each project.
+I am Nicholas Antoniades, a hands-on engineer with extensive experience in software development and hardware support. Over the past six years, I've worked across the Military, Medical, Automotive, and Aerospace sectors, bringing robust technical skills and a passion for innovation to each project.
 
 ### 📫 Contact
 - **Email:** nickantoniades11@gmail.com
