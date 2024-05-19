@@ -16,7 +16,7 @@ I am a hands-on engineer with extensive experience in software development and h
 - **Technologies:** UWB, Phased Array,Antennas, ECG, PPG, EMG, BLE, Battery Management Systems, Raspberry Pi, Nvidia Jetson, Vectornav GNSS IMU, DC/Servo/Stepper Motors, Altium, Jenkins, FreeRTOS
 
 ### 📘 Highlights
-- **Phased Array Antennas:** Developed system architecture,firmware and was invloved software integration for advanced phased array antennas at Hanwha Phasor.
+- **Phased Array Antennas:** Developed system architecture and firmware and was invloved with software integration for advanced phased array antennas at Hanwha Phasor.
 - **Automotive Security:** Developed central security systems for electric vehicles at Chevalier Tech Limited, integrating UWB, Bluetooth, and NFC technologies.
 - **Medical Prototypes:** At Kymira, Designed, developed and demonstrated medical prototypes, securing two grants for the company.
 - **Medical Devices:** at Nanodyn Systems: Developed a portable ventilator and a CPAP system for use in rugged environments.
