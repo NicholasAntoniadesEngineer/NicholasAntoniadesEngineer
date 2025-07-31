@@ -13,7 +13,7 @@ I am a hands-on engineer with extensive experience in software development and h
 - **Languages:** C, C++, Python, C#
 - **Embedded Systems:** STM32, NXP S32, Onsemi RSL10, NRF, Quarvo, Renasas
 - **Protocols:** Ethernet, CAN, UART, I2C, RS485, SPI
-- **Technologies:** UWB, Phased Array,Antennas, ECG, PPG, EMG, BLE, Battery Management Systems, Raspberry Pi, Nvidia Jetson, Vectornav GNSS IMU, DC/Servo/Stepper Motors, Altium, Jenkins, FreeRTOS
+- **Technologies:** FEEP thrusters, UWB, Phased Array,Antennas, ECG, PPG, EMG, BLE, Battery Management Systems, Raspberry Pi, Nvidia Jetson, Vectornav GNSS IMU, DC/Servo/Stepper Motors, Altium, Jenkins, FreeRTOS
 
 ### 📘 Highlights
 - **Phased Array Antennas:** Developed system architecture and firmware and was involved with software integration for advanced phased array antennas at Hanwha Phasor.
