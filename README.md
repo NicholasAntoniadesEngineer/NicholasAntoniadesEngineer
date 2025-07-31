@@ -16,6 +16,7 @@ I am a hands-on engineer with extensive experience in software development and h
 - **Technologies:** FEEP thrusters, UWB, Phased Array,Antennas, ECG, PPG, EMG, BLE, Battery Management Systems, Raspberry Pi, Nvidia Jetson, Vectornav GNSS IMU, DC/Servo/Stepper Motors, Altium, Jenkins, FreeRTOS
 
 ### 📘 Highlights
+- **FEEP thrusters:** Developed system architecture and firmware and was involved with software integration and testing for Field Emission Electric Propulsion thrusters for satelites.
 - **Phased Array Antennas:** Developed system architecture and firmware and was involved with software integration for advanced phased array antennas at Hanwha Phasor.
 - **Automotive Security:** Developed central security systems for electric vehicles at Chevalier Tech Limited, integrating UWB, Bluetooth, and NFC technologies.
 - **Medical Prototypes:** At Kymira, Designed, developed and demonstrated medical prototypes, securing two grants for the company.
