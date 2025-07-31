@@ -22,11 +22,12 @@ I am a hands-on engineer with extensive experience in software development and h
 - **Medical Devices:** at Nanodyn Systems: Developed a portable ventilator and a CPAP system for use in rugged environments.
 
 ### 💼 Experience
-- **Senior Embedded Software Engineer, Hanwha Phasor** (June 2023 - Present)
-- **Senior Embedded Software Engineer, Chevalier Tech Limited** (Sept 2022 - June 2023)
-- **Lead Research and Prototyping Engineer, Kymira** (Sept 2021 - Sept 2022)
-- **Mechatronics Engineer, Nanodyn Systems** (Jan 2020 - Sept 2021)
-- **Software Developer, Etech Solutions** (May 2019 - Jan 2019)
+- **Senior Embedded Software Engineer, Enpulsion GmbH** (April 2025 -)
+- **Senior Embedded Software Engineer, Hanwha Phasor** (May 2023 - April 2025)
+- **Senior Embedded Software Engineer, Chevalier Tech Limited** (June 2022 - May 2023)
+- **Lead Research and Prototyping Engineer, Kymira** (July 2021 - June 2022)
+- **Mechatronics Engineer, Nanodyn Systems** (August 2020 - July 2021)
+- **Software Developer, Etech Solutions** (May 2019 - August 2019)
 - **Junior Web Developer, Datasmart Technologies** (Sept 2018 - May 2019)
 
 ### 🎓 Education
