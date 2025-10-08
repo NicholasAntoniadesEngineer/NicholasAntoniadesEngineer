@@ -14,7 +14,7 @@ I am a hands-on engineer with extensive experience in software and hardware engi
 - **Embedded Systems:** STM32, NXP S32, Onsemi RSL10, NRF, Quarvo, Renasas, Raspberry Pi, Nvidia Jetson, Vectornav GNSS IMU,
 - **Protocols:** Ethernet, CAN, UART, I2C, RS485, SPI
 - **Technologies:** FEEP thrusters, UWB, Phased Array,Antennas, ECG, PPG, EMG, BLE, Battery Management Systems,
-- 
+  
 ### 📘 Highlights
 - **FEEP thrusters:** Developed system architecture and firmware and was involved with software integration and testing for Field Emission Electric Propulsion thrusters for satelites.
 - **Phased Array Antennas:** Developed system architecture and firmware and was involved with software integration for advanced phased array antennas at Hanwha Phasor.
