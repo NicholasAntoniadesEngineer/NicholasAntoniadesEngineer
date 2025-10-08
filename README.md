@@ -3,7 +3,7 @@
 
 Welcome to my GitHub.
 
-I am a hands-on engineer with extensive experience in software development and hardware support. I have worked across the Military, Medical, Automotive, and Aerospace sectors, bringing robust technical skills and a passion for innovation to each project.
+I am a hands-on engineer with extensive experience in software and hardware engineering. I have worked across the Military, Medical, Automotive, and Aerospace sectors, bringing robust technical skills and a passion for innovation to each project.
 
 ### 📫 Contact
 - **Email:** nickantoniades11@gmail.com
