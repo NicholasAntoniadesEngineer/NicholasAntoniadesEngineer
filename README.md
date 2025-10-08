@@ -1,7 +1,7 @@
 
 # Nicholas Antoniades
 
-Welcome to my GitHub!
+Welcome to my GitHub.
 
 I am a hands-on engineer with extensive experience in software development and hardware support. I have worked across the Military, Medical, Automotive, and Aerospace sectors, bringing robust technical skills and a passion for innovation to each project.
 
@@ -11,10 +11,10 @@ I am a hands-on engineer with extensive experience in software development and h
 
 ### 🛠️ Key Skills
 - **Languages:** C, C++, Python, C#
-- **Embedded Systems:** STM32, NXP S32, Onsemi RSL10, NRF, Quarvo, Renasas
+- **Embedded Systems:** STM32, NXP S32, Onsemi RSL10, NRF, Quarvo, Renasas, Raspberry Pi, Nvidia Jetson, Vectornav GNSS IMU,
 - **Protocols:** Ethernet, CAN, UART, I2C, RS485, SPI
-- **Technologies:** FEEP thrusters, UWB, Phased Array,Antennas, ECG, PPG, EMG, BLE, Battery Management Systems, Raspberry Pi, Nvidia Jetson, Vectornav GNSS IMU, DC/Servo/Stepper Motors, Altium, Jenkins, FreeRTOS
-
+- **Technologies:** FEEP thrusters, UWB, Phased Array,Antennas, ECG, PPG, EMG, BLE, Battery Management Systems,
+- 
 ### 📘 Highlights
 - **FEEP thrusters:** Developed system architecture and firmware and was involved with software integration and testing for Field Emission Electric Propulsion thrusters for satelites.
 - **Phased Array Antennas:** Developed system architecture and firmware and was involved with software integration for advanced phased array antennas at Hanwha Phasor.
